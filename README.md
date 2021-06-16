@@ -1,12 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Anirudh Agnihotri</h1>
- <p align="center"><br/>
-     <a href="https://www.instagram.com/a.n.i.r.u.d.h_._/">
-	     <span><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="15px" width="15px" >Anirudh Agnihotri</span>
-	</a>
-  <a href="https://www.linkedin.com/in/anirudh-agnihotri-49aa071b2/">
-   <span><img src="https://png.pngtree.com/element_our/md/20180626/md_5b321c9756fc6.jpg" height="15px" width="15px" >Anirudh Agnihotri</span>
-  </a>
-</p>
+ 
 
 <h3 align="center">A passionate Full-Stack-Developer from India</h3>
 <h3 align="center">Bachelor of Technology (To be graduated in 2023)</h3>
