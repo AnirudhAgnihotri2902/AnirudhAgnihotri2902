@@ -4,6 +4,7 @@
 <h3 align="center">A passionate Full-Stack-Developer from India</h3>
 <h3 align="center">Bachelor of Technology (To be graduated in 2023)</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnirudhAgnihotri2902&label=Profile%20views&color=0e75b6&style=flat" alt="AnirudhAgnihotri2902" /> </p>
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
