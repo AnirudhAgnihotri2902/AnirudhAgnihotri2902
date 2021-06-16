@@ -1,12 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Anirudh Agnihotri</h1>
  <p align="center"><br/>
      <a href="https://www.instagram.com/a.n.i.r.u.d.h_._/">
-	     
 	<span>Anirudh Agnihotri</span>
-  </a>
-  
+	</a>
   <a href="https://www.linkedin.com/in/anirudh-agnihotri-49aa071b2/">
-   <span><img src="https://png.pngtree.com/element_our/md/20180626/md_5b321c9756fc6.jpg" height="10px" width="10px" >Anirudh Agnihotri</span>
+   <span><img src="https://png.pngtree.com/element_our/md/20180626/md_5b321c9756fc6.jpg" height="20px" width="20px" >Anirudh Agnihotri</span>
   </a>
 </p>
 
