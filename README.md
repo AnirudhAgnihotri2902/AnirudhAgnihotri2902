@@ -51,4 +51,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnirudhAgnihotri2902&show_icons=true&locale=en&layout=compact" alt="AnirudhAgnihotri2902" /></p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AnirudhAgnihotri2902&show_icons=true&locale=en" alt="AnirudhAgnihotri2902" /></p>
