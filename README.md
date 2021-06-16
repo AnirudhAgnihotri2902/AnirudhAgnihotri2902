@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Anirudh Agnihotri</h1>
  <p align="center"><br/>
      <a href="https://www.instagram.com/a.n.i.r.u.d.h_._/">
-	<span>Anirudh Agnihotri</span>
+	     <span><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="15px" width="15px" >Anirudh Agnihotri</span>
 	</a>
   <a href="https://www.linkedin.com/in/anirudh-agnihotri-49aa071b2/">
-   <span><img src="https://png.pngtree.com/element_our/md/20180626/md_5b321c9756fc6.jpg" height="20px" width="20px" >Anirudh Agnihotri</span>
+   <span><img src="https://png.pngtree.com/element_our/md/20180626/md_5b321c9756fc6.jpg" height="15px" width="15px" >Anirudh Agnihotri</span>
   </a>
 </p>
 
@@ -38,7 +38,6 @@
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="60" height="60"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
-<img style="margin: auto;" src="https://miro.medium.com/max/3416/1*Txf8ugHH_MlHPM8JU6hT5w.jpeg" alt=postman width="60" height="60"/>
 <img style="margin: auto;" src="https://yt3.ggpht.com/ytc/AAUvwni6auGZNOFo5PfYQUwW4mLmCMRJ1sHXqApbh_fwYw=s900-c-k-c0x00ffffff-no-rj" alt=firebase width="60" height="60"/>
 <img style="margin: auto;" src="https://opencollective-production.s3.us-west-1.amazonaws.com/ff0a6e30-eab3-11e9-a22e-83df461207f7.png" alt=netlify width="60" height="60"/>
 </p>
