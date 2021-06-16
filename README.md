@@ -14,7 +14,7 @@
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Cricket & Binge-watching**❤
--🚀 You can find my project at...**<a href="https://github.com/AnirudhAgnihotri2902/AnirudhAgnihotri2902">https://github.com/AnirudhAgnihotri2902/AnirudhAgnihotri2902</a>**
+- 🚀 You can find my project at...**<a href="https://github.com/AnirudhAgnihotri2902/AnirudhAgnihotri2902">Github</a>**
 - 📫 How to reach me **<a href="mailto:anirudhagnihotri82@gmail.com" target="_blank">Anirudh Agnihotri</a>**
 
 <h4>Skills and Tools: </h4>
@@ -26,6 +26,8 @@
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/jquery.png" alt=jquery width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> 
+	<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/> </a>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
@@ -45,3 +47,8 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=windows10 width="60" height="60"/>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnirudhAgnihotri2902&show_icons=true&locale=en&layout=compact" alt="AnirudhAgnihotri2902" /></p>
+
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AnirudhAgnihotri2902&show_icons=true&locale=en" alt="AnirudhAgnihotri2902" /></p>
