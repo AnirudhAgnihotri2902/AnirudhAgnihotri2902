@@ -26,7 +26,16 @@
 - ⚡ Fun fact ... **Cricket & Binge-watching**❤
 - 🚀 You can find my project at...**<a href="https://github.com/AnirudhAgnihotri2902/AnirudhAgnihotri2902">Github</a>**
 - 📫 How to reach me **<a href="mailto:anirudhagnihotri82@gmail.com" target="_blank">Anirudh Agnihotri</a>**
+<h4>My Coding Profiles:</h4>
+<p align = "left">
+	<a href = "https://www.hackerrank.com/anirudh_agni"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/768px-HackerRank_logo.png" height = "40px" width="40px" ></a>
+	<a href = "https://www.codechef.com/users/anirudh_2902"><img src= "https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" height = "40px" width="40px" ></a>
+	<a href = "https://leetcode.com/anirudh_agni/"><img src= "https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height = "40px" width="40px" ></a>
+	<a href = "https://auth.geeksforgeeks.org/user/anirudhagnihotri82/practice/"><img src= "https://img.icons8.com/color/452/GeeksforGeeks.png" height = "40px" width="40px" ></a>
+	<a href = "https://codeforces.com/profile/anirudh_agniii"><img src= "https://img1.androidappsapk.co/ShOWQqr8SgrNgfGttMxuZ3y7rRlCwX9biNrZFom6_YGXznCPldjHQ0wSgsSbR611zQ=s300" height = "40px" width="40px" ></a>
 
+
+</p>
 <h4>Skills and Tools: </h4>
 <p align="left">
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
