@@ -32,7 +32,7 @@
 	<a href = "https://www.codechef.com/users/anirudh_2902"><img src= "https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" height = "40px" width="40px" ></a>
 	<a href = "https://leetcode.com/anirudh_agni/"><img src= "https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height = "40px" width="40px" ></a>
 	<a href = "https://auth.geeksforgeeks.org/user/anirudhagnihotri82/practice/"><img src= "https://img.icons8.com/color/452/GeeksforGeeks.png" height = "40px" width="40px" ></a>
-	<a href = "https://codeforces.com/profile/anirudh_agniii"><img src= "https://img1.androidappsapk.co/ShOWQqr8SgrNgfGttMxuZ3y7rRlCwX9biNrZFom6_YGXznCPldjHQ0wSgsSbR611zQ=s300" height = "40px" width="40px" ></a>
+	<a href = "https://codeforces.com/profile/anirudh_agniii"><img src= "https://cdn.iconscout.com/icon/free/png-256/code-forces-3629285-3031869.png" height = "40px" width="40px" ></a>
 
 
 </p>
