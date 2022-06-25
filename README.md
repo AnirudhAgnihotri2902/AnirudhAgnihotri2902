@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Anirudh Agnihotri</h1>
+<h1 align="center">Hi, I'm Anirudh Agnihotri</h1>
  
  <p align="center"><br/>
      <a href="https://www.instagram.com/a.n.i.r.u.d.h_._/">
